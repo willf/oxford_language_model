@@ -11,10 +11,10 @@ does not concern itself with these limits.
 
 Example uses:
 
-   > import oxford_language_model
-   > client = oxford_language_model.Client()
-   > tobreak = 'thebeatles'
-   > print(client.break_into_words(tobreak)[0]['words'])
-   "the beatles"
-   > print(client.generate_next_words('the world wide')[0]['word'])
-   "web"
+    > import oxford_language_model
+    > client = oxford_language_model.Client()
+    > tobreak = 'thebeatles'
+    > print(client.break_into_words(tobreak)[0]['words'])
+    "the beatles"
+    > print(client.generate_next_words('the world wide')[0]['word'])
+    "web"
