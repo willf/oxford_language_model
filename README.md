@@ -1,5 +1,4 @@
-oxford_language_model
-Python client for the Project Oxford web language model API
+# Python client for the Project Oxford web language model API 
 
 Client is a client for the Project Oxford Web Language Model API
 
