@@ -1,6 +1,6 @@
-# Python client for the Project Oxford web language model API 
+## Python client for the Project Oxford web language model API 
 
-Client is a client for the Project Oxford Web Language Model API
+This is a client for the Project Oxford Web Language Model API
 
 Information about the Web Language Model API can be found at 
 https://msdn.microsoft.com/en-US/library/mt628626.aspx
